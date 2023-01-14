@@ -1,3 +1,3 @@
 # Strange, Dark, & Mysterious AI Art. Made in Maine.
 
-![Image](./Halloween 2022.png)
+<img src="./Halloween 2022.png" width=350 />
