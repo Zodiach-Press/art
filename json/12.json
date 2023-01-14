@@ -1,0 +1,39 @@
+{
+  "name": "Zodiach #12",
+  "description": "Strange, Dark, & Mysterious AI Art. Made in Maine.",
+  "image": "https://github.com/Zodiach-Press/nft/12.png",
+  "dna": "9bbb5b6b181ea759599177d7b0416de3c1c6dddd",
+  "edition": 12,
+  "date": 1673703057566,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Eyeball",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Eye color",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Iris",
+      "value": "Small"
+    },
+    {
+      "trait_type": "Shine",
+      "value": "Shapes"
+    },
+    {
+      "trait_type": "Bottom lid",
+      "value": "Low"
+    },
+    {
+      "trait_type": "Top lid",
+      "value": "Low"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}
