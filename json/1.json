@@ -1,7 +1,7 @@
 {
   "name": "Zodiach #1",
   "description": "Strange, Dark, & Mysterious AI Art. Made in Maine.",
-  "image": "https://github.com/Zodiach-Press/art/blob/main/images/1.png",
+  "image": "../../images/1.png",
   "dna": "f795dbbebbe18288e2db37c0dcf21e202823d597",
   "edition": 1,
   "date": 1673703052094,
