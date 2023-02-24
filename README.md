@@ -1,4 +1,4 @@
-<img src="./Zodiach-Z.png" width=220 align='left'/>
+<img src="./Zodiach-Z.png" width=220 align='left'/><br />
 # Strange, Dark, & Mysterious AI Art. Made in Maine.
 
 <img src="./Halloween2022_3.png" width=350 align='right'/>
